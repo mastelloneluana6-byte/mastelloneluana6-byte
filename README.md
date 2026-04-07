@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Neon aesthetic: all graphics live in folder /assets/ on your repo (upload the whole local "assets" folder). -->
+<!-- Profile README: keep this file and the folder assets/ in the repo root (same branch). Paths ./assets/... resolve on github.com/username/username -->
 
 <img src="./assets/banner.svg" alt="Luana Mastellone" width="98%"/>
 
