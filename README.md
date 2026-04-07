@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Profile README: keep this file and the folder assets/ in the repo root (same branch). Paths ./assets/... resolve on github.com/username/username -->
+<!-- Base: https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/<file>.svg — zelfde bestanden in repo-root, repo moet public zijn. -->
 
-<img src="./assets/banner.svg" alt="Luana Mastellone" width="98%"/>
+<img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/banner.svg" alt="Luana Mastellone" width="850"/>
 
 <br/><br/>
 
 <p>
-  <a href="https://www.instagram.com/luana_mastellone/"><img src="./assets/btn-ig.svg" height="42" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/luana_mastellone/"><img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/btn-ig.svg" height="42" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luana-mastellone-988018294/"><img src="./assets/btn-in.svg" height="42" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/luana-mastellone-988018294/"><img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/btn-in.svg" height="42" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/mastelloneluana6-byte"><img src="./assets/btn-github.svg" height="42" alt="GitHub"/></a>
+  <a href="https://github.com/mastelloneluana6-byte"><img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/btn-github.svg" height="42" alt="GitHub"/></a>
 </p>
 
 <br/>
@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="right" valign="middle" width="52%">
-      <img src="./assets/speech-bubble.svg" alt="" width="520"/>
+      <img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/speech-bubble.svg" alt="" width="520"/>
     </td>
     <td align="center" valign="middle" width="48%">
       <img src="https://github.com/mastelloneluana6-byte.png" alt="Luana Mastellone" width="168" height="168"/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-<img src="./assets/showcase-grid.svg" alt="" width="920"/>
+<img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/showcase-grid.svg" alt="" width="920"/>
 
 <br/><br/>
 
@@ -49,16 +49,16 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
 
 ### Core stack & tooling
 
-<img src="./assets/stack-strip.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, Tailwind, WordPress, Shopify, Liquid, Git, GitHub, VS Code, Sass" width="920"/>
+<img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/stack-strip.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, Tailwind, WordPress, Shopify, Liquid, Git, GitHub, VS Code, Sass" width="920"/>
 
 <br/><br/>
 
 ### GitHub snapshot
 
 <p>
-  <a href="https://github.com/mastelloneluana6-byte?tab=repositories"><img src="./assets/btn-repos.svg" height="40" alt="Repositories"/></a>
+  <a href="https://github.com/mastelloneluana6-byte?tab=repositories"><img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/btn-repos.svg" height="40" alt="Repositories"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/mastelloneluana6-byte?tab=followers"><img src="./assets/btn-followers.svg" height="40" alt="Followers"/></a>
+  <a href="https://github.com/mastelloneluana6-byte?tab=followers"><img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/btn-followers.svg" height="40" alt="Followers"/></a>
 </p>
 
 <br/>
