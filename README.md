@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Base: https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/<file>.svg — zelfde bestanden in repo-root, repo moet public zijn. -->
-
 <img src="https://github.com/mastelloneluana6-byte/mastelloneluana6-byte/raw/main/banner.svg" alt="Luana Mastellone" width="850"/>
 
 <br/><br/>
@@ -63,10 +61,22 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
 
 <br/>
 
-### Featured project
+### Featured projects
 
-**[Edje24 — Custom Streetwear Engine](https://github.com/mastelloneluana6-byte/Edje24-Custom-Streetwear-Engine)**  
-Hand-coded Shopify storefront · bespoke UI · Liquid & performance-focused delivery.
+<table align="center" width="92%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <p><strong><a href="https://github.com/mastelloneluana6-byte/security-first-php-auth">🛡️ Security-First PHP Auth Engine</a></strong></p>
+      <p>Hand-coded <strong>PHP 8.3</strong> &amp; <strong>SQL</strong> · <strong>Argon2id</strong> hashing · Brute-force shield · Zero-framework architecture</p>
+      <p><em>Precision-engineered security layers for zero-trust environments.</em></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><strong><a href="https://github.com/mastelloneluana6-byte/Edje24-Custom-Streetwear-Engine">🛍️ Edje24 — Custom Streetwear Engine</a></strong></p>
+      <p>Hand-coded <strong>Shopify</strong> storefront · bespoke UI · <strong>Liquid</strong> &amp; performance-focused delivery</p>
+      <p><em>Built for the culture, engineered for speed.</em></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
