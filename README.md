@@ -61,7 +61,7 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
 
 <br/>
 
-### Featured projects
+### Full Stack Projects
 
 <table align="center" width="92%">
   <tr>
@@ -71,6 +71,20 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
       <p><em>Precision-engineered security layers for zero-trust environments.</em></p>
     </td>
     <td align="center" valign="top" width="50%">
+      <p><strong><a href="https://github.com/mastelloneluana6-byte/job-tracker">📌 Scope — Job Tracker Workflow App</a></strong></p>
+      <p><strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>Prisma</strong> · <strong>PostgreSQL</strong> · AI email generation</p>
+      <p><em>Full job-search workflow with import, tracking pipeline, and outreach drafts.</em></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Web Design Projects
+
+<table align="center" width="92%">
+  <tr>
+    <td align="center" valign="top" width="100%">
       <p><strong><a href="https://github.com/mastelloneluana6-byte/Edje24-Custom-Streetwear-Engine">🛍️ Edje24 — Custom Streetwear Engine</a></strong></p>
       <p>Hand-coded <strong>Shopify</strong> storefront · bespoke UI · <strong>Liquid</strong> &amp; performance-focused delivery</p>
       <p><em>Built for the culture, engineered for speed.</em></p>
