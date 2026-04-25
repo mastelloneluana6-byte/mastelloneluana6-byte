@@ -76,6 +76,13 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
       <p><em>Full job-search workflow with import, tracking pipeline, and outreach drafts.</em></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <p><strong><a href="https://sentinai-data-anonymizer.netlify.app">🔐 SentinAI Data Anonymizer — Live Demo</a></strong></p>
+      <p><strong>Next.js</strong> · <strong>FastAPI</strong> · <strong>C++ anonymization engine</strong> · privacy-first pipeline</p>
+      <p><em>Sanitize sensitive data before AI usage with a hybrid high-performance stack.</em></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
