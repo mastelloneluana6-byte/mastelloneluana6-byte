@@ -31,13 +31,14 @@
 
 <br/><br/>
 
-### Security-focused web full stack · Cybersecurity & digital marketing certified
+### Cybersecurity Engineer · AI Marketing Architect · Full Stack Builder
 
-**Freelance software developer** (Aug 2025 – present). I architect and ship **bespoke web applications** with **clean, semantic code** — not cookie-cutter templates. Every build is **security-first**, tuned for **conversion**, and pushed toward **100/100 Lighthouse** where it matters.
+I engineer secure digital systems where **performance, privacy, and growth** meet.  
+My focus: building **security-first web products** and **AI-ready infrastructure** that helps modern businesses scale without exposing sensitive data.
 
-Spanish **native**; **English, Dutch, Italian, French** fluent — for international clients and localized rollouts.
+I combine **cybersecurity engineering** with **AI marketing strategy** to deliver products that are not only technically strong, but also conversion-driven and market-ready.
 
-> *I might not look like your typical coder, but I'll out-code your heaviest architecture any day.*
+> *I might not look like your typical coder, but I design systems that outperform heavy architectures under real pressure.*
 
 <br/>
 
@@ -68,21 +69,21 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
     <td align="center" valign="top" width="100%">
       <p><strong><a href="https://github.com/mastelloneluana6-byte/security-first-php-auth">🛡️ Security-First PHP Auth Engine</a></strong></p>
       <p>Hand-coded <strong>PHP 8.3</strong> &amp; <strong>SQL</strong> · <strong>Argon2id</strong> hashing · Brute-force shield · Zero-framework architecture</p>
-      <p><em>Precision-engineered security layers for zero-trust environments.</em></p>
+      <p><em>Authentication architecture built for zero-trust and production resilience.</em></p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="100%">
       <p><strong><a href="https://github.com/mastelloneluana6-byte/job-tracker">📌 Scope — Job Tracker Workflow App</a></strong></p>
       <p><strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>Prisma</strong> · <strong>PostgreSQL</strong> · AI email generation</p>
-      <p><em>Full job-search workflow with import, tracking pipeline, and outreach drafts.</em></p>
+      <p><em>End-to-end workflow system for job search operations, outreach, and execution velocity.</em></p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="100%">
-      <p><strong><a href="https://sentinai-data-anonymizer.netlify.app">🔐 SentinAI Data Anonymizer — Live Demo</a></strong></p>
-      <p><strong>Next.js</strong> · <strong>FastAPI</strong> · <strong>C++ anonymization engine</strong> · privacy-first pipeline</p>
-      <p><em>Sanitize sensitive data before AI usage with a hybrid high-performance stack.</em></p>
+      <p><strong><a href="https://sentinai-data-anonymizer.netlify.app">🔐 SPECTRA | VAULT — SentinAI Data Anonymizer</a></strong></p>
+      <p><strong>Next.js</strong> · <strong>FastAPI</strong> · <strong>C++ core engine</strong> · privacy orchestration</p>
+      <p><em>High-speed PII sanitization pipeline built to make AI and marketing data workflows safer by design.</em></p>
     </td>
   </tr>
 </table>
@@ -96,7 +97,7 @@ Spanish **native**; **English, Dutch, Italian, French** fluent — for internati
     <td align="center" valign="top" width="100%">
       <p><strong><a href="https://github.com/mastelloneluana6-byte/Edje24-Custom-Streetwear-Engine">🛍️ Edje24 — Custom Streetwear Engine</a></strong></p>
       <p>Hand-coded <strong>Shopify</strong> storefront · bespoke UI · <strong>Liquid</strong> &amp; performance-focused delivery</p>
-      <p><em>Built for the culture, engineered for speed.</em></p>
+      <p><em>Brand-first ecommerce crafted for culture, speed, and conversion performance.</em></p>
     </td>
   </tr>
 </table>
