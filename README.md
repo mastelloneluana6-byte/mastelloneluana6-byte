@@ -81,7 +81,7 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
   </tr>
   <tr>
     <td align="center" valign="top" width="100%">
-      <p><strong><a href="https://sentinai-data-anonymizer.netlify.app">🔐 SPECTRA | VAULT — SentinAI Data Anonymizer</a></strong></p>
+      <p><strong><a href="https://github.com/mastelloneluana6-byte/sentinai-data-anonymizer">🔐 SPECTRA | VAULT — SentinAI Data Anonymizer</a></strong></p>
       <p><strong>Next.js</strong> · <strong>FastAPI</strong> · <strong>C++ core engine</strong> · privacy orchestration</p>
       <p><em>High-speed PII sanitization pipeline built to make AI and marketing data workflows safer by design.</em></p>
     </td>
