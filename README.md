@@ -104,6 +104,12 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
 
 <br/>
 
+### Websites
+
+<p><strong><a href="https://nextjs-plum-five-71.vercel.app/the-resort/rooms-suites">Marbella Resort Website</a></strong></p>
+
+<br/>
+
 ---
 
 <sub><code>#ff2d95</code> · <code>#c44cff</code> · <code>#7c3aed</code></sub>
