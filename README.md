@@ -100,13 +100,12 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
       <p><em>Brand-first ecommerce crafted for culture, speed, and conversion performance.</em></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <p><strong><a href="https://nextjs-plum-five-71.vercel.app/the-resort/rooms-suites">🏖️ Marbella Resort Website</a></strong></p>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-### Websites
-
-<p><strong><a href="https://nextjs-plum-five-71.vercel.app/the-resort/rooms-suites">Marbella Resort Website</a></strong></p>
 
 <br/>
 
