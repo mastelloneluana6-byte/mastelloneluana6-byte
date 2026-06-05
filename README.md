@@ -112,7 +112,7 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
   </tr>
   <tr>
     <td align="center" valign="top" width="100%">
-      <p><strong><a href="https://mastelloneluana6-byte.github.io/freelancer-service/">✨ Sarah Flynn Design</a></strong></p>
+      <p><strong><a href="https://freenlancer-service-bussines.vercel.app">✨ Sarah Flynn Design</a></strong></p>
     </td>
   </tr>
 </table>
