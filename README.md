@@ -110,6 +110,11 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
       <p><strong><a href="https://mastelloneluana6-byte.github.io/Barber-shop-LOS-ANGELES/">💈 Lost Angeles Barber</a></strong></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <p><strong><a href="https://mastelloneluana6-byte.github.io/freelancer-service/">✨ Sarah Flynn Design</a></strong></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
