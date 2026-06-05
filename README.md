@@ -105,6 +105,11 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
       <p><strong><a href="https://nextjs-plum-five-71.vercel.app/the-resort/rooms-suites">🏖️ Marbella Resort Website</a></strong></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <p><strong><a href="https://mastelloneluana6-byte.github.io/Barber-shop-LOS-ANGELES/">💈 Lost Angeles Barber</a></strong></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
