@@ -95,13 +95,6 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
 <table align="center" width="92%">
   <tr>
     <td align="center" valign="top" width="100%">
-      <p><strong><a href="https://github.com/mastelloneluana6-byte/Edje24-Custom-Streetwear-Engine">🛍️ Edje24 — Custom Streetwear Engine</a></strong></p>
-      <p>Hand-coded <strong>Shopify</strong> storefront · bespoke UI · <strong>Liquid</strong> &amp; performance-focused delivery</p>
-      <p><em>Brand-first ecommerce crafted for culture, speed, and conversion performance.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="100%">
       <p><strong><a href="https://nextjs-plum-five-71.vercel.app/the-resort/rooms-suites">🏖️ Marbella Resort Website</a></strong></p>
     </td>
   </tr>
