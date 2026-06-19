@@ -113,6 +113,11 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
       <p><strong><a href="https://mastelloneluana6-byte.github.io/Styles-Barber-Lounge/">💈 Styles Barber Lounge</a></strong></p>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <p><strong><a href="https://catering-website-zays.vercel.app">🍽️ La Serre Catering</a></strong></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
