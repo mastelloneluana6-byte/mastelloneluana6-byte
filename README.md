@@ -116,6 +116,7 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
   <tr>
     <td align="center" valign="top" width="100%">
       <p><strong><a href="https://catering-website-zays.vercel.app">🍽️ La Serre Catering</a></strong></p>
+      <p><strong><a href="https://korean-beauty-gpmwja230-mastelloneluana6-bytes-projects.vercel.app">Cutelaza</a></strong></p>
     </td>
   </tr>
 </table>
