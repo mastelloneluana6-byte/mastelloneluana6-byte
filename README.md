@@ -118,6 +118,7 @@ I combine **cybersecurity engineering** with **AI marketing strategy** to delive
       <p><strong><a href="https://catering-website-zays.vercel.app">🍽️ La Serre Catering</a></strong></p>
       <p><strong><a href="https://korean-beauty-gpmwja230-mastelloneluana6-bytes-projects.vercel.app">✨ Cutelaza</a></strong></p>
       <p><strong><a href="https://images.google.com/hosted/google_image_content/11792178046329732673">🌿 Aroma Website</a></strong></p>
+      <p><strong><a href="https://burgundy-red-website-5g7p001lk-mastelloneluana6-bytes-projects.vercel.app">🍷 Burgundy Red Website</a></strong></p>
     </td>
   </tr>
 </table>
